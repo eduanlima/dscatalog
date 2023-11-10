@@ -1,16 +1,5 @@
-INSERT INTO category (name, createdat) VALUES('Books', NOW());
-INSERT INTO category (name, createdat) VALUES('Electronics', NOW());
-INSERT INTO category (name, createdat) VALUES('Computers', NOW());
-INSERT INTO category (name, createdat) VALUES('Cook', NOW());
-INSERT INTO category (name, createdat) VALUES('Toys', NOW());
-INSERT INTO category (name, createdat) VALUES('Stationery', NOW());
-INSERT INTO category (name, createdat) VALUES('Hygiene', NOW());
-INSERT INTO category (name, createdat) VALUES('Drinks', NOW());
-INSERT INTO category (name, createdat) VALUES('Pets', NOW());
-INSERT INTO category (name, createdat) VALUES('Tools', NOW());
-INSERT INTO category (name, createdat) VALUES('Clothes', NOW());
-INSERT INTO category (name, createdat) VALUES('Foods', NOW());
-INSERT INTO category (name, createdat) VALUES('Automobiles', NOW());
-INSERT INTO category (name, createdat) VALUES('Gardens', NOW());
-INSERT INTO category (name, createdat) VALUES('Vegetables', NOW());
-INSERT INTO category (name, createdat) VALUES('Fruits', NOW());
+INSERT INTO category (name, createdat) VALUES ('Livros', NOW());
+INSERT INTO category (name, createdat) VALUES ('Eletrônicos', NOW());
+INSERT INTO category (name, createdat) VALUES ('Computadores', NOW());
+
+
